@@ -9,6 +9,7 @@ const Page0 = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Link to='/randindex'>Rand Index</Link>
+        <Link to='/standardscaler'>Standard Scaler</Link>
       </header>
     </div>
   );
